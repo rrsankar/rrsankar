@@ -6,9 +6,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RamSankar | Twitter" width="24px" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" />][twitter]
-[<img align="left" alt="RamSankar | LinkedIn" width="24px" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" />][linkedin]
-[<img align="left" alt="RamSankar | Instagram" width="24px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />][instagram]
+[<img align="left" alt="RamSankar | Twitter" width="28px" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" />][twitter]
+[<img align="left" alt="RamSankar | LinkedIn" width="28px" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" />][linkedin]
+[<img align="left" alt="RamSankar | Instagram" width="28px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />][instagram]
 
 [twitter]: https://x.com/ramrsankar
 [instagram]: https://www.instagram.com/ramrsankar

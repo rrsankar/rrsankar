@@ -1,13 +1,9 @@
 <h1>Hi, I'm Ram! <br/><a href="https://github.com/rrsankar">Programmer</a>, <a href="https://www.linkedin.com/in/ramrsankar/">Data Scientist</a>, <a href="https://www.linkedin.com/in/ramrsankar/">ML Expert</a></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
 <h2>👨‍💻 Data Science Projects:</h2>
 
-
-
-
+- <b>See my projects on Customer Lifetime Value here:</b>
+  - [CLV using ML](https://github.com/rrsankar/CLV-Prediction-Using-ML)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -23,6 +19,8 @@
 Here are some ideas to get you started:
 <h2>📺 YouTube Videos</h2>
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>See my projects on Customer Lifetime Value here:</b>
-  - [CLV using ML](https://github.com/rrsankar/CLV-Prediction-Using-ML)
+- <b>Predicting Customer Lifetime Value using BGNBD & Gamma Gamma model from Lifetimes package.</b>
+  - [Notebook](https://github.com/rrsankar/CLV-Prediction-Using-ML/blob/main/CLV_using_Lifetimes_BGNBD_GammaGamma/main.ipynb)
 
 <h2> 🤳 Connect with me:</h2>
 

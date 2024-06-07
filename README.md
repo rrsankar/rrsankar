@@ -6,7 +6,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="RamSankar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="RamSankar | Twitter" width="22px" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" />][twitter]
 [<img align="left" alt="RamSankar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RamSankar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

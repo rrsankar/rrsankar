@@ -1,4 +1,6 @@
-<h1>Hi, I'm Ram! <br/><a href="https://github.com/rrsankar">Programmer</a>, <a href="https://www.linkedin.com/in/ramrsankar/">Data Scientist</a>, <a href="https://www.linkedin.com/in/ramrsankar/">ML Expert</a></h1>
+<h1>Hi, I'm Ram! <br/><a href="https://github.com/rrsankar">Programmer</a>, <a href="https://www.linkedin.com/in/ramrsankar/">Data Scientist</a>, <a href="https://www.linkedin.com/in/ramrsankar/">AI/ML Expert</a></h1>
+
+Check out my portfolio: [rrsankar.github.io](https://rrsankar.github.io/)
 
 <h2>👨‍💻 Projects:</h2>
 

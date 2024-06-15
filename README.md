@@ -10,6 +10,9 @@ Check out my portfolio: [rrsankar.github.io](https://rrsankar.github.io/)
 - <b>Fine-tuning DistilBert for Classification Task.</b>
   - [Notebook](https://github.com/rrsankar/All-About-BERT/blob/main/1-Fine-Tuning-DistilBert-For-Classification-Task/Sarcasm-Detection-Using-DistilBert-Base-Uncased-Model.ipynb)
 
+- <b>Similarity Search & Retrival using FAISS VectorDB, LangChain & OpenAI.</b>
+  - [Notebook](https://github.com/rrsankar/All-About-VectorDB/blob/main/1-FAISS-VectorDB-with-LangChain-and-OpenAI/FAISS-VecDB-with-LangChain-and-OpenAI.ipynb)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RamSankar | Twitter" width="28px" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" />][twitter]

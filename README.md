@@ -1,17 +1,14 @@
 <h1>Hi, I'm Ram! <br/><a href="https://github.com/rrsankar">Programmer</a>, <a href="https://www.linkedin.com/in/ramrsankar/">Data Scientist</a>, <a href="https://www.linkedin.com/in/ramrsankar/">AI/ML Expert</a></h1>
 
+Welcome to Ram's Lab. 
+
 Check out my portfolio: [rrsankar.github.io](https://rrsankar.github.io/)
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Predicting Customer Lifetime Value using BG/NBD & Gamma-Gamma model.</b>
-  - [Notebook](https://github.com/rrsankar/CLV-Prediction-Using-ML/blob/main/CLV_using_Lifetimes_BGNBD_GammaGamma/main.ipynb)
-
-- <b>Fine-tuning DistilBert for Classification Task.</b>
-  - [Notebook](https://github.com/rrsankar/All-About-BERT/blob/main/1-Fine-Tuning-DistilBert-For-Classification-Task/Sarcasm-Detection-Using-DistilBert-Base-Uncased-Model.ipynb)
-
-- <b>Similarity Search & Retrival using FAISS VectorDB, LangChain & OpenAI.</b>
-  - [Notebook](https://github.com/rrsankar/All-About-VectorDB/blob/main/1-FAISS-VectorDB-with-LangChain-and-OpenAI/FAISS-VecDB-with-LangChain-and-OpenAI.ipynb)
+- <b>Predicting Customer Lifetime Value using BG/NBD & Gamma-Gamma model - [Notebook](https://github.com/rrsankar/CLV-Prediction-Using-ML/blob/main/CLV_using_Lifetimes_BGNBD_GammaGamma/main.ipynb).</b>
+- <b>Fine-tuning DistilBert for Classification Task - [Notebook](https://github.com/rrsankar/All-About-BERT/blob/main/1-Fine-Tuning-DistilBert-For-Classification-Task/Sarcasm-Detection-Using-DistilBert-Base-Uncased-Model.ipynb).</b>
+- <b>Similarity Search & Retrival using FAISS VectorDB, LangChain & OpenAI - [Notebook](https://github.com/rrsankar/All-About-VectorDB/blob/main/1-FAISS-VectorDB-with-LangChain-and-OpenAI/FAISS-VecDB-with-LangChain-and-OpenAI.ipynb).</b>
 
 <h2> 🤳 Connect with me:</h2>
 

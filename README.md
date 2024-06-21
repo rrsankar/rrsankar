@@ -8,7 +8,9 @@ Check out my portfolio: [rrsankar.github.io](https://rrsankar.github.io/)
 
 - <b>Predicting Customer Lifetime Value using BG/NBD & Gamma-Gamma model - [Notebook](https://github.com/rrsankar/CLV-Prediction-Using-ML/blob/main/CLV_using_Lifetimes_BGNBD_GammaGamma/main.ipynb).</b>
 - <b>Fine-tuning DistilBert for Classification Task - [Notebook](https://github.com/rrsankar/All-About-BERT/blob/main/1-Fine-Tuning-DistilBert-For-Classification-Task/Sarcasm-Detection-Using-DistilBert-Base-Uncased-Model.ipynb).</b>
+- <b>Fine-tuning Llama-2 LLM using LoRA - [Notebook](https://github.com/rrsankar/All-About-LLM/blob/main/2-Fine-Tuning-Llama2-with-LoRa/fine_tuning_llama2.ipynb).</b>
 - <b>Similarity Search & Retrival using FAISS VectorDB, LangChain & OpenAI - [Notebook](https://github.com/rrsankar/All-About-VectorDB/blob/main/1-FAISS-VectorDB-with-LangChain-and-OpenAI/FAISS-VecDB-with-LangChain-and-OpenAI.ipynb).</b>
+- <b>Image Similarity Search App with Qdrant & Streamlit - [Folder](https://github.com/rrsankar/All-About-VectorDB/tree/main/2-Image-Similarity-Search-App-with-Qdrant).</b>
 
 <h2> 🤳 Connect with me:</h2>
 

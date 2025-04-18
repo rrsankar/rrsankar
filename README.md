@@ -17,7 +17,6 @@ Check out my portfolio: [rrsankar.github.io](https://rrsankar.github.io/)
 
 [<img align="left" alt="RamSankar | Twitter" width="28px" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" />][twitter]
 [<img align="left" alt="RamSankar | LinkedIn" width="28px" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" />][linkedin]
-[<img align="left" alt="RamSankar | Instagram" width="28px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />][instagram]
 
 [twitter]: https://x.com/ramrsankar
 [linkedin]: https://linkedin.com/in/ramrsankar

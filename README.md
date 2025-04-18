@@ -20,7 +20,6 @@ Check out my portfolio: [rrsankar.github.io](https://rrsankar.github.io/)
 [<img align="left" alt="RamSankar | Instagram" width="28px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />][instagram]
 
 [twitter]: https://x.com/ramrsankar
-[instagram]: https://www.instagram.com/ramrsankar
 [linkedin]: https://linkedin.com/in/ramrsankar
 
 <!--
